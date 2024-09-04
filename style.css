@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+}
+:root {
+  font-family: "Open Sans", system-ui;
+  font-size: 16px;
+  font-weight: 400;
+  color: #333333;
+}
+#page {
+  width: 1120px;
+  margin: auto;
+  padding: 88px;
+}
+.headline {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #e1624f;
+}
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #1b1b1b;
+}
+
+.image {
+  width: 100%;
+  height: 350px;
+  margin-bottom: 20px;
+  border-radius: 28px;
+}
+
+#image_one {
+  width: 100%;
+  height: 660px;
+  border-radius: 28px;
+}
+
+img + p {
+  font-style: italic;
+  text-align: center;
+  font-size: 16px;
+  margin: 24px auto 40px;
+}
+
+.divisor {
+  width: 1120px;
+  height: 1px;
+  margin: 40px auto;
+  background-color: #d9d9d9;
+}
+
+#destino {
+  margin: 64px auto 64px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700px;
+  margin: 2px auto 8px;
+  color: #1b1b1b;
+}
